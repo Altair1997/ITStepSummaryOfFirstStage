@@ -1,0 +1,14 @@
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\Altair\source\repos\DoITMT\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll

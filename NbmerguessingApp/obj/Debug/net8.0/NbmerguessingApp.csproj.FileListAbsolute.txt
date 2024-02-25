@@ -1,0 +1,14 @@
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\bin\Debug\net8.0\NbmerguessingApp.exe
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\bin\Debug\net8.0\NbmerguessingApp.deps.json
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\bin\Debug\net8.0\NbmerguessingApp.runtimeconfig.json
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\bin\Debug\net8.0\NbmerguessingApp.dll
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\bin\Debug\net8.0\NbmerguessingApp.pdb
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\obj\Debug\net8.0\NbmerguessingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\obj\Debug\net8.0\NbmerguessingApp.AssemblyInfoInputs.cache
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\obj\Debug\net8.0\NbmerguessingApp.AssemblyInfo.cs
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\obj\Debug\net8.0\NbmerguessingApp.csproj.CoreCompileInputs.cache
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\obj\Debug\net8.0\NbmerguessingApp.dll
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\obj\Debug\net8.0\refint\NbmerguessingApp.dll
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\obj\Debug\net8.0\NbmerguessingApp.pdb
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\obj\Debug\net8.0\NbmerguessingApp.genruntimeconfig.cache
+C:\Users\Altair\source\repos\DoITMT\NbmerguessingApp\obj\Debug\net8.0\ref\NbmerguessingApp.dll

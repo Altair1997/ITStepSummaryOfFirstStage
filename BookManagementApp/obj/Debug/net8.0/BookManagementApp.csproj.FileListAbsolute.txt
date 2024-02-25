@@ -1,0 +1,14 @@
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\bin\Debug\net8.0\BookManagementApp.exe
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\bin\Debug\net8.0\BookManagementApp.deps.json
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\bin\Debug\net8.0\BookManagementApp.runtimeconfig.json
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\bin\Debug\net8.0\BookManagementApp.dll
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\bin\Debug\net8.0\BookManagementApp.pdb
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\obj\Debug\net8.0\BookManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\obj\Debug\net8.0\BookManagementApp.AssemblyInfoInputs.cache
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\obj\Debug\net8.0\BookManagementApp.AssemblyInfo.cs
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\obj\Debug\net8.0\BookManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\obj\Debug\net8.0\BookManagementApp.dll
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\obj\Debug\net8.0\refint\BookManagementApp.dll
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\obj\Debug\net8.0\BookManagementApp.pdb
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\obj\Debug\net8.0\BookManagementApp.genruntimeconfig.cache
+C:\Users\Altair\source\repos\DoITMT\BookManagementApp\obj\Debug\net8.0\ref\BookManagementApp.dll
