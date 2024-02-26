@@ -39,6 +39,7 @@ namespace NumberGuessingGame
                 {
                     guessedCorrectly = true;
                     Console.WriteLine($"You guessed the number {secretNumber} in {attempts} attempts.");
+                    Console.ReadKey();
                 }
             }
         }
