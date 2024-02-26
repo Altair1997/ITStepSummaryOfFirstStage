@@ -74,6 +74,7 @@ namespace BookManagerApp
 
             while (true)
             {
+                Console.WriteLine("__________________________________________________");
                 Console.WriteLine("Menu:");
                 Console.WriteLine("1. Add New Book");
                 Console.WriteLine("2. Show All Books");
